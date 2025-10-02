@@ -7,8 +7,6 @@ public class IterationsExample {
             System.out.println("Something");
 
             System.out.println(count);
-            ++count;
-            System.out.println(count);
         }
     }
 }

@@ -27,6 +27,5 @@ public class LearningExceptions {
         } catch (Exception e) {
             System.out.println("Unexpected Error: " + e.getMessage());
         }
-
     }
 }
