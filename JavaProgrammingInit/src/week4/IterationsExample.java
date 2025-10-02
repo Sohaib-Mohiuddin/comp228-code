@@ -6,7 +6,7 @@ public class IterationsExample {
         for (int i = 0; i < 10; i++) {
             System.out.println("Something");
 
-            System.out.println(count);
+            System.out.println(i);
         }
     }
 }
