@@ -1,4 +1,4 @@
-package com.opsdevelop.comp228.week5.fig09_10_11;
+package week5.fig09_10_11;
 
 // Fig. 9.10: CommissionEmployee.java
 // CommissionEmployee class uses methods to manipulate its 

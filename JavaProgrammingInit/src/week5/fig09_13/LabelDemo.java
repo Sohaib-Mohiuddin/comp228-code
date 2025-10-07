@@ -1,4 +1,4 @@
-package com.opsdevelop.comp228.week5.fig09_13;
+package week5.fig09_13;
 
 // Fig 9.13: LabelDemo.java
 // Demonstrates the use of labels.
@@ -6,6 +6,7 @@ import java.awt.BorderLayout;
 import javax.swing.ImageIcon;
 import javax.swing.JLabel;
 import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 
 public class LabelDemo
 {

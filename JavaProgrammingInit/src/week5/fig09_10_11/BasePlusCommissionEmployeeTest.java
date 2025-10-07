@@ -1,4 +1,4 @@
-package com.opsdevelop.comp228.week5.fig09_10_11;
+package week5.fig09_10_11;
 
 // BasePlusCommissionEmployeeTest.java
 // Testing class BasePlusCommissionEmployee.

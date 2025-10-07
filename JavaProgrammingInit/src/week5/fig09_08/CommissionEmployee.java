@@ -12,9 +12,7 @@ public class CommissionEmployee //extends Object
    protected double commissionRate; // commission percentage
 
    // five-argument constructor                                       
-   public CommissionEmployee(String firstName, String lastName, 
-      String socialSecurityNumber, double grossSales, 
-      double commissionRate)
+   public CommissionEmployee(String firstName, String lastName, String socialSecurityNumber, double grossSales, double commissionRate)
    {                                                                  
       // implicit call to Object constructor occurs here              
 

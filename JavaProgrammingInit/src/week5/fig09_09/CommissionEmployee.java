@@ -1,4 +1,4 @@
-package com.opsdevelop.comp228.week5.fig09_09;
+package week5.fig09_09;
 
 // CommissionEmployee.java
 // CommissionEmployee class represents an employee paid a 
