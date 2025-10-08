@@ -1,4 +1,4 @@
-package com.opsdevelop.comp228.week6.Fig10_04_09;
+package week6.Fig10_04_09;
 
 // Fig. 10.7: CommissionEmployee.java
 // CommissionEmployee class extends Employee.

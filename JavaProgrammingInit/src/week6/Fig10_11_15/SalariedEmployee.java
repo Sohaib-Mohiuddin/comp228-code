@@ -1,4 +1,4 @@
-package com.opsdevelop.comp228.week6.Fig10_11_15;
+package week6.Fig10_11_15;
 
 // Fig. 10.14: SalariedEmployee.java
 // SalariedEmployee class that implements interface Payable.

@@ -1,4 +1,4 @@
-package com.opsdevelop.comp228.week6.Fig10_11_15;
+package week6.Fig10_11_15;
 
 // Fig. 10.15: PayableInterfaceTest.java
 // Payable interface test program processing Invoices and 

@@ -1,9 +1,9 @@
-package com.opsdevelop.comp228.week6.Fig10_04_09;
+package week6.Fig10_04_09;
 
 // Fig. 10.8: BasePlusCommissionEmployee.java
 // BasePlusCommissionEmployee class extends CommissionEmployee.
 
-public class BasePlusCommissionEmployee extends CommissionEmployee 
+public class BasePlusCommissionEmployee extends CommissionEmployee
 {
    private double baseSalary; // base salary per week
 

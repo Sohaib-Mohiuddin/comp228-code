@@ -1,4 +1,4 @@
-package com.opsdevelop.comp228.week6.Fig10_11_15;
+package week6.Fig10_11_15;
 
 // Fig. 10.11: Payable.java
 // Payable interface declaration.

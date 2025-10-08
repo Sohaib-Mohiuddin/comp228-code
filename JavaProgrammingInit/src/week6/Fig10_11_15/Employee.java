@@ -1,4 +1,4 @@
-package com.opsdevelop.comp228.week6.Fig10_11_15;
+package week6.Fig10_11_15;
 
 // Fig. 10.13: Employee.java
 // Employee abstract superclass that implements Payable.
